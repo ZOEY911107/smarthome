@@ -1,0 +1,14 @@
+{
+	"cloudfunctionRoot": "server/",
+	"client": "client/",
+	"svr": "server/",
+	"miniprogramRoot": "client/",
+	"qcloudRoot": "server/",
+	"setting": {},
+	"appid": "wxb614ca5c4e82db54",
+	"projectname": "miniprogram-test-1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {}
+}
